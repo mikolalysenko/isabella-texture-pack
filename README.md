@@ -2,7 +2,7 @@ isabella-texture-pack
 =====================
 A require()-able version of the Eventime texture pack.  The resulting image is exposed as an ndarray.
 
-<img src="terrain.png">
+<img src="https://raw.github.com/mikolalysenko/isabella-texture-pack/master/terrain.png">
 
 ## Install
 

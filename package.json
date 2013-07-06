@@ -1,0 +1,37 @@
+{
+  "name": "isabella-texture-pack",
+  "version": "0.0.0",
+  "description": "Creative commons licensed texture pack for voxel games",
+  "main": "index.js",
+  "dependencies": {
+    "get-pixels": "~1.0.1",
+    "ndarray": "~1.0.3",
+    "base64-js": "~0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node convert.js > terrain.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/isabella-texture-pack.git"
+  },
+  "keywords": [
+    "voxel",
+    "minecraft",
+    "texture",
+    "terrain",
+    "tile",
+    "sprite",
+    "sheet",
+    "pack"
+  ],
+  "author": "Bonemouse",
+  "license": "Creative Commons 3.0",
+  "readmeFilename": "README.md",
+  "gitHead": "471bfc0088dfcb510bac056d80a5494306f5d0cc",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/isabella-texture-pack/issues"
+  }
+}
