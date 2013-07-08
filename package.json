@@ -1,6 +1,6 @@
 {
   "name": "isabella-texture-pack",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Creative commons licensed texture pack for voxel games",
   "main": "index.js",
   "dependencies": {
