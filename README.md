@@ -8,7 +8,7 @@ A require()-able version of the Isabella Minecraft texture pack.  The resulting 
 
     npm install isabella-texture-pack
     
-### `require("isabella-texture-pack")()`
+### `require("isabella-texture-pack")`
 Returns an ndarray encoding the textures as a 256x256x4 array
 
 ## Credits
